@@ -1,3 +1,3 @@
 # odin-recipes
 
-new project!
+Simple recipe page using HTML.
